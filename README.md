@@ -91,7 +91,7 @@ git remote add origin https://github.com/你的帳號/你的專案.git
 - 用 `for` 迴圈印出 1 到 10
 - 寫簡單的加法計算器
 
-## 9. 變更測試
+## 9. 變更測試2
 ---
 
 目前這個專案已經完成本地端提交，並準備好上傳 GitHub。
